@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" >
+
+    <symbol viewBox="0 0 32 32" fill="none" id="heart">
+        <path d="M29.8667 14.9333V19.2H27.7333V21.3333H25.6V19.2H23.4667V21.3333H21.3333V23.4667H19.2V25.6H17.0667V27.7333H19.2V29.8667H17.0667V32H14.9333V29.8667H12.8V27.7333H10.6667V25.6H8.53333V23.4667H6.4V21.3333H4.26667V19.2H2.13333V14.9333H0V4.26667H2.13333V2.13333H4.26667V0H10.6667V2.13333H12.8V4.26667H14.9333V6.4H17.0667V4.26667H19.2V2.13333H21.3333V0H27.7333V2.13333H29.8667V4.26667H32V14.9333H29.8667ZM8.53333 2.13333H6.4V4.26667H4.26667V6.4H2.13333V8.53333H4.26667V6.4H6.4V4.26667H8.53333V2.13333ZM25.6 2.13333H23.4667V4.26667H21.3333V6.4H19.2V8.53333H21.3333V6.4H23.4667V4.26667H25.6V2.13333ZM21.3333 25.6V27.7333H19.2V25.6H21.3333ZM23.4667 23.4667V25.6H21.3333V23.4667H23.4667ZM25.6 21.3333V23.4667H23.4667V21.3333H25.6Z" fill="#FF1BE8"/>
+    </symbol>
+    <symbol viewBox="0 0 420 105" fill="none" id="connect">
+        <g style="mix-blend-mode:overlay" filter="url(#filter0_dd_135_2021)">
+        <rect x="20" y="14" width="372" height="57" fill="white"/>
+        <rect x="18" y="12" width="376" height="61" stroke="#FF1BE8" stroke-width="4"/>
+        </g>
+        <path d="M67 49V52H64V55H52V52H49V49H46V37H49V34H52V31H64V34H67V37H61V34H55V37H52V49H55V52H61V49H67ZM84.88 34H79.12V37H76.12V49H79.12V52H84.88V49H87.88V37H84.88V34ZM88 31V34H91V37H94V49H91V52H88V55H76V52H73V49H70V37H73V34H76V31H88ZM118 31V55H112V52H109V49H106V43H103V55H97V31H103V34H106V37H109V43H112V31H118ZM142 31V55H136V52H133V49H130V43H127V55H121V31H127V34H130V37H133V43H136V31H142ZM151 40H163V43H151V52H163V55H145V31H163V34H151V40ZM187 49V52H184V55H172V52H169V49H166V37H169V34H172V31H184V34H187V37H181V34H175V37H172V49H175V52H181V49H187ZM202 34V55H196V34H190V31H208V34H202ZM256 31V37H253V49H250V55H244V49H241V43H235V49H232V55H226V49H223V37H220V31H226V37H229V43H232V34H235V31H241V34H244V43H247V37H250V31H256ZM274 49H262V55H256V49H259V43H262V34H265V31H271V34H274V43H277V49H280V55H274V49ZM265.12 46H270.88V43H265.12V46ZM289 52H301V55H283V31H289V52ZM310 52H322V55H304V31H310V52ZM331 40H343V43H331V52H343V55H325V31H343V34H331V40ZM358 34V55H352V34H346V31H364V34H358Z" fill="#303030"/>
+        <defs>
+        <filter id="filter0_dd_135_2021" x="0" y="0" width="420" height="105" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+        <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+        <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+        <feOffset dy="4"/>
+        <feGaussianBlur stdDeviation="5"/>
+        <feComposite in2="hardAlpha" operator="out"/>
+        <feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.82 0"/>
+        <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_135_2021"/>
+        <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+        <feOffset dx="4" dy="10"/>
+        <feGaussianBlur stdDeviation="10"/>
+        <feComposite in2="hardAlpha" operator="out"/>
+        <feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 0.105833 0 0 0 0 0.910583 0 0 0 1 0"/>
+        <feBlend mode="normal" in2="effect1_dropShadow_135_2021" result="effect2_dropShadow_135_2021"/>
+        <feBlend mode="normal" in="SourceGraphic" in2="effect2_dropShadow_135_2021" result="shape"/>
+        </filter>
+        </defs>
+    </symbol>
+    <symbol viewBox="0 0 40 40" fill="none" id="down">
+        <path d="M5 5H35V35H5V5ZM31.6667 31.6667V8.33333H8.33333V31.6667H31.6667ZM18.3333 11.6667H21.6667V21.6667H25V25H21.6667V28.3333H18.3333V25H15V21.6667H18.3333V11.6667ZM15 18.3333V21.6667H11.6667V18.3333H15ZM28.3333 18.3333H25V21.6667H28.3333V18.3333Z" fill="white" fill-opacity="0.8"/>
+    </symbol>
+    <symbol viewBox="0 0 40 40" fill="none" id="up">
+        <path d="M5 35H35V5H5V35ZM31.6667 8.33333V31.6667H8.33333V8.33333H31.6667ZM18.3333 28.3333H21.6667V18.3333H25V15H21.6667V11.6667H18.3333V15H15V18.3333H18.3333V28.3333ZM15 21.6667V18.3333H11.6667V21.6667H15ZM28.3333 21.6667H25V18.3333H28.3333V21.6667Z" fill="white" fill-opacity="0.8"/>
+    </symbol>
+    <symbol viewBox="0 0 282 105" fill="none" id="mint">
+        <g style="mix-blend-mode:overlay" filter="url(#filter0_dd_135_2030)">
+        <rect x="20" y="14" width="234" height="57" fill="white"/>
+        <rect x="18" y="12" width="238" height="61" stroke="#FF1BE8" stroke-width="4"/>
+        </g>
+        <path d="M120 31V55H114V49H111V55H105V49H102V55H96V31H102V34H105V40H111V34H114V31H120ZM129 31V55H123V31H129ZM153 31V55H147V52H144V49H141V43H138V55H132V31H138V34H141V37H144V43H147V31H153ZM168 34V55H162V34H156V31H174V34H168Z" fill="black" fill-opacity="0.8"/>
+        <defs>
+        <filter id="filter0_dd_135_2030" x="0" y="0" width="282" height="105" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+        <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+        <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+        <feOffset dy="4"/>
+        <feGaussianBlur stdDeviation="5"/>
+        <feComposite in2="hardAlpha" operator="out"/>
+        <feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.82 0"/>
+        <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_135_2030"/>
+        <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+        <feOffset dx="4" dy="10"/>
+        <feGaussianBlur stdDeviation="10"/>
+        <feComposite in2="hardAlpha" operator="out"/>
+        <feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 0.105833 0 0 0 0 0.910583 0 0 0 1 0"/>
+        <feBlend mode="normal" in2="effect1_dropShadow_135_2030" result="effect2_dropShadow_135_2030"/>
+        <feBlend mode="normal" in="SourceGraphic" in2="effect2_dropShadow_135_2030" result="shape"/>
+        </filter>
+        </defs>
+    </symbol>
+
+
+
+
+</svg>
