@@ -1,0 +1,35 @@
+{
+  "name": "Larva Cats #4374",
+  "description": "Never bet against a meme",
+  "image": "https://www.larvcats.com/4374.png",
+  "dna": "9828f308a6a5bec364d32449b68c2a96ce3be658",
+  "edition": 4374,
+  "date": 1642176177024,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Frame"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "VR"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
