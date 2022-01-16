@@ -13,7 +13,7 @@ const App = () => {
   const blockchain = useSelector((state) => state.blockchain);
   const data = useSelector((state) => state.data);
   const [mintAmount, setMintAmount] = useState(1);
-  const [feedback, setFeedback] = useState(`Click mint.`);
+  const [feedback, setFeedback] = useState(``);
 
   useEffect(() => {
     dispatch(connect());
