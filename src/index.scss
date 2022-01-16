@@ -1,12 +1,14 @@
 @font-face {
   font-family: "Pixel Arial";
-  src: url("./font/PIXEAB__.TTF") format("truetype");
+  src: url("./font/PIXEARG_.TTF") format("truetype");
   font-weight: normal;
   font-style: normal;
 }
 
 body {
   font-family: "Pixel Arial" !important;
+  font-style: normal;
+  font-weight: normal;
   font-size: 12px;
   margin: 0;
 }
