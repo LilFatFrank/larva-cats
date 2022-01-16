@@ -90,6 +90,29 @@ const App = () => {
   return !(isMobile || isTablet) ? (
     <>
       <img src="LandingPage.png" alt="landing-page" className="background" />
+      <div className="social">
+        <a
+          href="https://opensea.io/collection/larva-cats"
+          target={"_blank"}
+          rel="noreferrer noopener"
+        >
+          <Sprite id="opensea" width={40} height={40} />
+        </a>
+        <a
+          href="https://twitter.com/larvacatsnft"
+          target={"_blank"}
+          rel="noreferrer noopener"
+        >
+          <Sprite id="twitter" width={40} height={40} />
+        </a>
+        <a
+          href="https://discord.gg/FhHehYS9GH"
+          target={"_blank"}
+          rel="noreferrer noopener"
+        >
+          <Sprite id="discord" width={40} height={40} />
+        </a>
+      </div>
       <div className="minting">
         <div className="claim">
           <Sprite id="heart" width={32} height={32} />
