@@ -5,7 +5,7 @@ import dataReducer from "./data/dataReducer";
 
 const rootReducer = combineReducers({
   blockchain: blockchainReducer,
-  data: dataReducer,
+  data: dataReducer
 });
 
 const middleware = [thunk];
