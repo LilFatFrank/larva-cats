@@ -40,7 +40,7 @@ const App = () => {
       .larvaladHolders(blockchain.account)
       .call();
     if (hasLad) {
-      totalCostWei = String(cost * (mintAmount - 0.01));
+      totalCostWei = String(cost * (mintAmount - 1));
     }
     blockchain.smartContract.methods
       .mintLarvaCat(mintAmount)
