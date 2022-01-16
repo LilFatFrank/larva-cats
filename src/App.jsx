@@ -183,7 +183,7 @@ const App = () => {
                     The sale has ended
                   </div>
                 ) : (
-                  <div style={{ color: "#ffffff" }}>
+                  <div style={{ color: "#ffffff", fontSize: "16px" }}>
                     <span style={{ color: "#FF1BE8" }}>{data.totalSupply}</span>
                     <span>/{CONFIG.MAX_SUPPLY}</span>
                   </div>
