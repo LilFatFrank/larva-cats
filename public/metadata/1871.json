@@ -1,1 +1,35 @@
-{"name":"Larva Cats #1871","description":"Never bet against a meme","image":"https://www.larvacats.com/metadata/1871.png","dna":"ab55338275417c15d9130dae8006a0dbf92cb44d","edition":1871,"date":1642413544889,"attributes":[{"trait_type":"Background","value":"Red"},{"trait_type":"Type","value":"Zombie"},{"trait_type":"Mouth","value":"Smile"},{"trait_type":"Headwear","value":"Stringy"},{"trait_type":"Eyewear","value":"Horned"},{"trait_type":"Accessory","value":"Vape"}],"compiler":"HashLips Art Engine"}
+{
+  "name": "Larva Cats #1871",
+  "description": "Never bet against a meme",
+  "image": "https://www.larvacats.com/metadata/1871.png",
+  "dna": "71b9d4234bc8366f8b39e5b16cbde6fc39fda90d",
+  "edition": 1871,
+  "date": 1642423690846,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Unimpressed"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Messy Hair"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Eye Mask"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "VR"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

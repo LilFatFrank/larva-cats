@@ -1,1 +1,35 @@
-{"name":"Larva Cats #1169","description":"Never bet against a meme","image":"https://www.larvacats.com/metadata/1169.png","dna":"38d84546147423d71192718c2009b1bd29e7a815","edition":1169,"date":1642413447317,"attributes":[{"trait_type":"Background","value":"Pink"},{"trait_type":"Type","value":"Normal2"},{"trait_type":"Mouth","value":"Smile"},{"trait_type":"Headwear","value":"Cap"},{"trait_type":"Eyewear","value":"Eye Patch"},{"trait_type":"Accessory","value":"VR"}],"compiler":"HashLips Art Engine"}
+{
+  "name": "Larva Cats #1169",
+  "description": "Never bet against a meme",
+  "image": "https://www.larvacats.com/metadata/1169.png",
+  "dna": "964b04fb331c46eba34905de0cf9c66cd53be6e6",
+  "edition": 1169,
+  "date": 1642423596272,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Unimpressed"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Police Cap"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Eye Mask"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "VR"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

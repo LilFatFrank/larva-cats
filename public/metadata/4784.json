@@ -1,1 +1,35 @@
-{"name":"Larva Cats #4784","description":"Never bet against a meme","image":"https://www.larvacats.com/metadata/4784.png","dna":"8b1cb36a8a535e415ed0ed10e3c48d4138130164","edition":4784,"date":1642413955229,"attributes":[{"trait_type":"Background","value":"Pink"},{"trait_type":"Type","value":"Normal1"},{"trait_type":"Mouth","value":"Smile"},{"trait_type":"Headwear","value":"Crazy"},{"trait_type":"Eyewear","value":"Horned"},{"trait_type":"Accessory","value":"Vape"}],"compiler":"HashLips Art Engine"}
+{
+  "name": "Larva Cats #4784",
+  "description": "Never bet against a meme",
+  "image": "https://www.larvacats.com/metadata/4784.png",
+  "dna": "0d65e0f2c74774e139a48fc0a3cfd8067f0b56c9",
+  "edition": 4784,
+  "date": 1642424143661,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Beard"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Wild Blonde"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Dark Eye Shadow"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Vape"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

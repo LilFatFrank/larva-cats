@@ -1,1 +1,35 @@
-{"name":"Larva Cats #4933","description":"Never bet against a meme","image":"https://www.larvacats.com/metadata/4933.png","dna":"f3759dfe0ff14b171c19f167af8b5dbd1382852e","edition":4933,"date":1642413975970,"attributes":[{"trait_type":"Background","value":"Pink"},{"trait_type":"Type","value":"Alien"},{"trait_type":"Mouth","value":"Clown"},{"trait_type":"Headwear","value":"Mohawk"},{"trait_type":"Eyewear","value":"Eye Patch"},{"trait_type":"Accessory","value":"Vape"}],"compiler":"HashLips Art Engine"}
+{
+  "name": "Larva Cats #4933",
+  "description": "Never bet against a meme",
+  "image": "https://www.larvacats.com/metadata/4933.png",
+  "dna": "e2d3330f7ad210db2d75f08de6a9b3c4e329d8b4",
+  "edition": 4933,
+  "date": 1642424177674,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Unimpressed"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Frumpy Hair"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Classic Shades"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "VR"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

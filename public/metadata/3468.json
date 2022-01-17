@@ -1,1 +1,35 @@
-{"name":"Larva Cats #3468","description":"Never bet against a meme","image":"https://www.larvacats.com/metadata/3468.png","dna":"6b52b0f29cbe1f34bedca6e6f649b4c5033528f5","edition":3468,"date":1642413767603,"attributes":[{"trait_type":"Background","value":"Pink"},{"trait_type":"Type","value":"Normal"},{"trait_type":"Mouth","value":"Smile"},{"trait_type":"Headwear","value":"Crazy"},{"trait_type":"Eyewear","value":"Clown Eyes Green"},{"trait_type":"Accessory","value":"VR"}],"compiler":"HashLips Art Engine"}
+{
+  "name": "Larva Cats #3468",
+  "description": "Never bet against a meme",
+  "image": "https://www.larvacats.com/metadata/3468.png",
+  "dna": "2e286b2a5b833cdb12d8515955f0ba1cb4863b8a",
+  "edition": 3468,
+  "date": 1642423937446,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Clown Nose"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Bandana"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Classic Shades"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

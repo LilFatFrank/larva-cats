@@ -1,1 +1,35 @@
-{"name":"Larva Cats #4289","description":"Never bet against a meme","image":"https://www.larvacats.com/metadata/4289.png","dna":"4b6bc759776731885b47cd382372094abeabba4d","edition":4289,"date":1642413883182,"attributes":[{"trait_type":"Background","value":"Purple"},{"trait_type":"Type","value":"Normal"},{"trait_type":"Mouth","value":"Clown"},{"trait_type":"Headwear","value":"Mohawk"},{"trait_type":"Eyewear","value":"Small"},{"trait_type":"Accessory","value":"Earring"}],"compiler":"HashLips Art Engine"}
+{
+  "name": "Larva Cats #4289",
+  "description": "Never bet against a meme",
+  "image": "https://www.larvacats.com/metadata/4289.png",
+  "dna": "9c78115868de8784233ce0454b779642f422245f",
+  "edition": 4289,
+  "date": 1642424052263,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "French"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Purple Eye Shadow"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cigarette"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

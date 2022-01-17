@@ -1,1 +1,35 @@
-{"name":"Larva Cats #4729","description":"Never bet against a meme","image":"https://www.larvacats.com/metadata/4729.png","dna":"64b6c396e728f7d57d09ec16fb81101595b5dcb2","edition":4729,"date":1642413947653,"attributes":[{"trait_type":"Background","value":"Blue"},{"trait_type":"Type","value":"Normal"},{"trait_type":"Mouth","value":"Hot"},{"trait_type":"Headwear","value":"Orange"},{"trait_type":"Eyewear","value":"Eye Patch"},{"trait_type":"Accessory","value":"Vape"}],"compiler":"HashLips Art Engine"}
+{
+  "name": "Larva Cats #4729",
+  "description": "Never bet against a meme",
+  "image": "https://www.larvacats.com/metadata/4729.png",
+  "dna": "a663550275991924cef075d2b8da16b262e8fdd2",
+  "edition": 4729,
+  "date": 1642424133643,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Beard"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Red Mohawk"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Regular Shades"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cigarette"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

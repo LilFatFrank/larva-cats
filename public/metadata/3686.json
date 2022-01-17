@@ -1,1 +1,35 @@
-{"name":"Larva Cats #3686","description":"Never bet against a meme","image":"https://www.larvacats.com/metadata/3686.png","dna":"76e580af33d6facdc1f4f85b28e53218ed8e5baf","edition":3686,"date":1642413798480,"attributes":[{"trait_type":"Background","value":"Red"},{"trait_type":"Type","value":"Normal"},{"trait_type":"Mouth","value":"Smile"},{"trait_type":"Headwear","value":"Clown"},{"trait_type":"Eyewear","value":"Blue"},{"trait_type":"Accessory","value":"Earring"}],"compiler":"HashLips Art Engine"}
+{
+  "name": "Larva Cats #3686",
+  "description": "Never bet against a meme",
+  "image": "https://www.larvacats.com/metadata/3686.png",
+  "dna": "123a48993ce54d1135d178a2b108404d69b26725",
+  "edition": 3686,
+  "date": 1642423967561,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Unimpressed"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Tiara"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Horned Rim Glasses"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Vape"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

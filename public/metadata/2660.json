@@ -1,1 +1,35 @@
-{"name":"Larva Cats #2660","description":"Never bet against a meme","image":"https://www.larvacats.com/metadata/2660.png","dna":"1566a709982dc912e20e3d91cbbfc6e9982a5494","edition":2660,"date":1642413653737,"attributes":[{"trait_type":"Background","value":"Purple"},{"trait_type":"Type","value":"Normal1"},{"trait_type":"Mouth","value":"Black"},{"trait_type":"Headwear","value":"Tiara"},{"trait_type":"Eyewear","value":"Regular"},{"trait_type":"Accessory","value":"Pipe"}],"compiler":"HashLips Art Engine"}
+{
+  "name": "Larva Cats #2660",
+  "description": "Never bet against a meme",
+  "image": "https://www.larvacats.com/metadata/2660.png",
+  "dna": "d8ec048f1f5b89293102d77caac52d6ca58fff64",
+  "edition": 2660,
+  "date": 1642423803694,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Hot Lipstick"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Cap Forward"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Clown Eyes Blue"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Earring"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

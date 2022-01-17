@@ -1,1 +1,35 @@
-{"name":"Larva Cats #404","description":"Never bet against a meme","image":"https://www.larvacats.com/metadata/404.png","dna":"0d021e79790c80bc2fd6a2e369f3dc343259959c","edition":404,"date":1642413341760,"attributes":[{"trait_type":"Background","value":"Blue"},{"trait_type":"Type","value":"Normal1"},{"trait_type":"Mouth","value":"Big"},{"trait_type":"Headwear","value":"Top"},{"trait_type":"Eyewear","value":"Eye Patch"},{"trait_type":"Accessory","value":"Pipe"}],"compiler":"HashLips Art Engine"}
+{
+  "name": "Larva Cats #404",
+  "description": "Never bet against a meme",
+  "image": "https://www.larvacats.com/metadata/404.png",
+  "dna": "f171443ad931b34db7ee28b71601e74c482ed376",
+  "edition": 404,
+  "date": 1642423488446,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile Black"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Police Cap"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

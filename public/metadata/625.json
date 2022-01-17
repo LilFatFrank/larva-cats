@@ -1,1 +1,35 @@
-{"name":"Larva Cats #625","description":"Never bet against a meme","image":"https://www.larvacats.com/metadata/625.png","dna":"14cd9b7274efb169a43d28bf684d89c4b8552ba1","edition":625,"date":1642413372148,"attributes":[{"trait_type":"Background","value":"Pink"},{"trait_type":"Type","value":"Alien"},{"trait_type":"Mouth","value":"Black"},{"trait_type":"Headwear","value":"Pigtails"},{"trait_type":"Eyewear","value":"Dark"},{"trait_type":"Accessory","value":"Pipe"}],"compiler":"HashLips Art Engine"}
+{
+  "name": "Larva Cats #625",
+  "description": "Never bet against a meme",
+  "image": "https://www.larvacats.com/metadata/625.png",
+  "dna": "f97c81193dcb992866c5606a6316092808b84aa2",
+  "edition": 625,
+  "date": 1642423521923,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile Red"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Cowboy Hat"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Purple Eye Shadow"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cigarette"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

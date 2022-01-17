@@ -1,1 +1,35 @@
-{"name":"Larva Cats #2320","description":"Never bet against a meme","image":"https://www.larvacats.com/metadata/2320.png","dna":"a86f367982472f5b93988f99dbcd7bc0b37e4bd1","edition":2320,"date":1642413606291,"attributes":[{"trait_type":"Background","value":"Blue"},{"trait_type":"Type","value":"Normal2"},{"trait_type":"Mouth","value":"Unimpressed"},{"trait_type":"Headwear","value":"Messy"},{"trait_type":"Eyewear","value":"Eye"},{"trait_type":"Accessory","value":"Goat"}],"compiler":"HashLips Art Engine"}
+{
+  "name": "Larva Cats #2320",
+  "description": "Never bet against a meme",
+  "image": "https://www.larvacats.com/metadata/2320.png",
+  "dna": "bec057c04a00d10519c4f74383332540ad64c5af",
+  "edition": 2320,
+  "date": 1642423754598,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile Red"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Bandana"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Horned Rim Glasses"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

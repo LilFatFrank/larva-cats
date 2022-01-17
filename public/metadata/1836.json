@@ -1,1 +1,35 @@
-{"name":"Larva Cats #1836","description":"Never bet against a meme","image":"https://www.larvacats.com/metadata/1836.png","dna":"2ecef83faa3128f4f8b25f1eb6da00d74a6b1684","edition":1836,"date":1642413539997,"attributes":[{"trait_type":"Background","value":"Blue"},{"trait_type":"Type","value":"Normal1"},{"trait_type":"Mouth","value":"Smile"},{"trait_type":"Headwear","value":"Fedora"},{"trait_type":"Eyewear","value":"Eye Patch"},{"trait_type":"Accessory","value":"Earring"}],"compiler":"HashLips Art Engine"}
+{
+  "name": "Larva Cats #1836",
+  "description": "Never bet against a meme",
+  "image": "https://www.larvacats.com/metadata/1836.png",
+  "dna": "78e2d28ac0c77de303d62fa295044ac6d6a06ff5",
+  "edition": 1836,
+  "date": 1642423686113,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Unimpressed"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Fedora"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Purple Eye Shadow"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "VR"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

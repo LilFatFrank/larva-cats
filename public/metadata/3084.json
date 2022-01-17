@@ -1,1 +1,35 @@
-{"name":"Larva Cats #3084","description":"Never bet against a meme","image":"https://www.larvacats.com/metadata/3084.png","dna":"de1e7656e97dbc7cf1940f3bf46c4e86d6400e47","edition":3084,"date":1642413713300,"attributes":[{"trait_type":"Background","value":"Pink"},{"trait_type":"Type","value":"Zombie"},{"trait_type":"Mouth","value":"Hot"},{"trait_type":"Headwear","value":"Tiara"},{"trait_type":"Eyewear","value":"Regular"},{"trait_type":"Accessory","value":"Pipe"}],"compiler":"HashLips Art Engine"}
+{
+  "name": "Larva Cats #3084",
+  "description": "Never bet against a meme",
+  "image": "https://www.larvacats.com/metadata/3084.png",
+  "dna": "0e40eec96a1fbe3c31c2be59cfb30086bcb063c7",
+  "edition": 3084,
+  "date": 1642423882780,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Unimpressed"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cigarette"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

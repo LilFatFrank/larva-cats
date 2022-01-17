@@ -1,1 +1,35 @@
-{"name":"Larva Cats #3770","description":"Never bet against a meme","image":"https://www.larvacats.com/metadata/3770.png","dna":"bb6a0481a5ef947da4273b16c925d0609c4157eb","edition":3770,"date":1642413810238,"attributes":[{"trait_type":"Background","value":"Pink"},{"trait_type":"Type","value":"Alien"},{"trait_type":"Mouth","value":"French"},{"trait_type":"Headwear","value":"Frumpy"},{"trait_type":"Eyewear","value":"Clown Eyes Green"},{"trait_type":"Accessory","value":"Goat"}],"compiler":"HashLips Art Engine"}
+{
+  "name": "Larva Cats #3770",
+  "description": "Never bet against a meme",
+  "image": "https://www.larvacats.com/metadata/3770.png",
+  "dna": "b40b10c2a79b5982e0d146aac89cc0370f0c6148",
+  "edition": 3770,
+  "date": 1642423979275,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "French"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Pink With Hat"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Classic Shades"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Goat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

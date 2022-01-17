@@ -1,1 +1,35 @@
-{"name":"Larva Cats #4812","description":"Never bet against a meme","image":"https://www.larvacats.com/metadata/4812.png","dna":"34533445e8f709b4a555fa39ed533d81664fb72c","edition":4812,"date":1642413959150,"attributes":[{"trait_type":"Background","value":"Purple"},{"trait_type":"Type","value":"Alien"},{"trait_type":"Mouth","value":"Frown"},{"trait_type":"Headwear","value":"Pink"},{"trait_type":"Eyewear","value":"Big"},{"trait_type":"Accessory","value":"Goat"}],"compiler":"HashLips Art Engine"}
+{
+  "name": "Larva Cats #4812",
+  "description": "Never bet against a meme",
+  "image": "https://www.larvacats.com/metadata/4812.png",
+  "dna": "f8343a6f3c5acf85467fb4a2f0a7921164b2a134",
+  "edition": 4812,
+  "date": 1642424150126,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Clown Nose"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Messy Hair"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Goat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

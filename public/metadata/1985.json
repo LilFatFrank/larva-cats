@@ -1,1 +1,35 @@
-{"name":"Larva Cats #1985","description":"Never bet against a meme","image":"https://www.larvacats.com/metadata/1985.png","dna":"239572ca858406df78a8ccb9320daaaceef961ca","edition":1985,"date":1642413560597,"attributes":[{"trait_type":"Background","value":"Blue"},{"trait_type":"Type","value":"Alien"},{"trait_type":"Mouth","value":"Frown"},{"trait_type":"Headwear","value":"Fedora"},{"trait_type":"Eyewear","value":"Eye"},{"trait_type":"Accessory","value":"Pipe"}],"compiler":"HashLips Art Engine"}
+{
+  "name": "Larva Cats #1985",
+  "description": "Never bet against a meme",
+  "image": "https://www.larvacats.com/metadata/1985.png",
+  "dna": "d2bb21c5d5cff6bbe1d812cfdaaddf729021a5cc",
+  "edition": 1985,
+  "date": 1642423706200,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Clown Nose"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Headband"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

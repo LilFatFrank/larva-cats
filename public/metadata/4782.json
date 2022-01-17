@@ -1,1 +1,35 @@
-{"name":"Larva Cats #4782","description":"Never bet against a meme","image":"https://www.larvacats.com/metadata/4782.png","dna":"1949a7707fc24671ba7e829f18cb9b32698a6a39","edition":4782,"date":1642413954952,"attributes":[{"trait_type":"Background","value":"Pink"},{"trait_type":"Type","value":"Normal2"},{"trait_type":"Mouth","value":"Frown"},{"trait_type":"Headwear","value":"Bandana"},{"trait_type":"Eyewear","value":"Clown Eyes Green"},{"trait_type":"Accessory","value":"Cigarette"}],"compiler":"HashLips Art Engine"}
+{
+  "name": "Larva Cats #4782",
+  "description": "Never bet against a meme",
+  "image": "https://www.larvacats.com/metadata/4782.png",
+  "dna": "5dd390093070b950cc78fb62723a01e76d37e26d",
+  "edition": 4782,
+  "date": 1642424143281,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile Black"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Crazy Hair Red"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Horned Rim Glasses"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cigarette"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

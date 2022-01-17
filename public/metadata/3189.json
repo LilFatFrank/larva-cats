@@ -1,1 +1,35 @@
-{"name":"Larva Cats #3189","description":"Never bet against a meme","image":"https://www.larvacats.com/metadata/3189.png","dna":"23091c6061ccbcf6b3d84a2739eae78be2598640","edition":3189,"date":1642413728057,"attributes":[{"trait_type":"Background","value":"Blue"},{"trait_type":"Type","value":"Normal2"},{"trait_type":"Mouth","value":"Hot"},{"trait_type":"Headwear","value":"Bandana"},{"trait_type":"Eyewear","value":"Blue"},{"trait_type":"Accessory","value":"Pipe"}],"compiler":"HashLips Art Engine"}
+{
+  "name": "Larva Cats #3189",
+  "description": "Never bet against a meme",
+  "image": "https://www.larvacats.com/metadata/3189.png",
+  "dna": "755160bb33e9e4b3c1231ecaba2bba8dc1fa6f0b",
+  "edition": 3189,
+  "date": 1642423897737,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Black Lipstick"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Purple Hair"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Eye Mask"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Goat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

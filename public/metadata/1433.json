@@ -1,1 +1,35 @@
-{"name":"Larva Cats #1433","description":"Never bet against a meme","image":"https://www.larvacats.com/metadata/1433.png","dna":"ee936e46061171253a596f1f534c61adab2b84c3","edition":1433,"date":1642413483849,"attributes":[{"trait_type":"Background","value":"Purple"},{"trait_type":"Type","value":"Normal1"},{"trait_type":"Mouth","value":"Frown"},{"trait_type":"Headwear","value":"Frumpy"},{"trait_type":"Eyewear","value":"Nerd"},{"trait_type":"Accessory","value":"Goat"}],"compiler":"HashLips Art Engine"}
+{
+  "name": "Larva Cats #1433",
+  "description": "Never bet against a meme",
+  "image": "https://www.larvacats.com/metadata/1433.png",
+  "dna": "a42dbab307b384a20c589d10b70f8b0bb16aeec7",
+  "edition": 1433,
+  "date": 1642423631962,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "French"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Police Cap"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Green Eye Shadow"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Goat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,1 +1,35 @@
-{"name":"Larva Cats #3412","description":"Never bet against a meme","image":"https://www.larvacats.com/metadata/3412.png","dna":"eb636b8661295149e501fb7ae602fb64cdc377f3","edition":3412,"date":1642413759584,"attributes":[{"trait_type":"Background","value":"Red"},{"trait_type":"Type","value":"Normal1"},{"trait_type":"Mouth","value":"Hot"},{"trait_type":"Headwear","value":"Cap"},{"trait_type":"Eyewear","value":"Clown"},{"trait_type":"Accessory","value":"Cigarette"}],"compiler":"HashLips Art Engine"}
+{
+  "name": "Larva Cats #3412",
+  "description": "Never bet against a meme",
+  "image": "https://www.larvacats.com/metadata/3412.png",
+  "dna": "1fc1abc7411e58445cfd4f1570be7a87cf3c90cc",
+  "edition": 3412,
+  "date": 1642423929680,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile Black"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Frumpy Hair"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Clown Eyes Blue"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "VR"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

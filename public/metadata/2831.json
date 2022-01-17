@@ -1,1 +1,35 @@
-{"name":"Larva Cats #2831","description":"Never bet against a meme","image":"https://www.larvacats.com/metadata/2831.png","dna":"5ce1d16ccc24cb7397e4508db265fb346f02cb89","edition":2831,"date":1642413677882,"attributes":[{"trait_type":"Background","value":"Purple"},{"trait_type":"Type","value":"Normal1"},{"trait_type":"Mouth","value":"Frown"},{"trait_type":"Headwear","value":"Fedora"},{"trait_type":"Eyewear","value":"3D"},{"trait_type":"Accessory","value":"Cigarette"}],"compiler":"HashLips Art Engine"}
+{
+  "name": "Larva Cats #2831",
+  "description": "Never bet against a meme",
+  "image": "https://www.larvacats.com/metadata/2831.png",
+  "dna": "b38d42ee02e64c33a0fdd94a1c32582a479b2c4d",
+  "edition": 2831,
+  "date": 1642423836539,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile Red"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Crazy Hair Black"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Big Shades"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Earring"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

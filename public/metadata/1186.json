@@ -1,1 +1,35 @@
-{"name":"Larva Cats #1186","description":"Never bet against a meme","image":"https://www.larvacats.com/metadata/1186.png","dna":"26cd35ebc0d800982fb39a98cb318fc1fb1680a8","edition":1186,"date":1642413449643,"attributes":[{"trait_type":"Background","value":"Purple"},{"trait_type":"Type","value":"Zombie"},{"trait_type":"Mouth","value":"French"},{"trait_type":"Headwear","value":"Top"},{"trait_type":"Eyewear","value":"Green"},{"trait_type":"Accessory","value":"Earring"}],"compiler":"HashLips Art Engine"}
+{
+  "name": "Larva Cats #1186",
+  "description": "Never bet against a meme",
+  "image": "https://www.larvacats.com/metadata/1186.png",
+  "dna": "6bc8708ac23ff6724c7e4c5a45d506ec459f3f4a",
+  "edition": 1186,
+  "date": 1642423598613,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Unimpressed"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Pigtails"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Big Shades"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "VR"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,1 +1,35 @@
-{"name":"Larva Cats #2273","description":"Never bet against a meme","image":"https://www.larvacats.com/metadata/2273.png","dna":"919a775df447fbe4e1f480bfc6a4f4528033be37","edition":2273,"date":1642413599730,"attributes":[{"trait_type":"Background","value":"Purple"},{"trait_type":"Type","value":"Zombie"},{"trait_type":"Mouth","value":"Unimpressed"},{"trait_type":"Headwear","value":"Cap"},{"trait_type":"Eyewear","value":"Purple"},{"trait_type":"Accessory","value":"Earring"}],"compiler":"HashLips Art Engine"}
+{
+  "name": "Larva Cats #2273",
+  "description": "Never bet against a meme",
+  "image": "https://www.larvacats.com/metadata/2273.png",
+  "dna": "d79e11a30c279d43a71d1c856d4ea64dfee27f60",
+  "edition": 2273,
+  "date": 1642423747927,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Black Lipstick"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Frumpy Hair"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Dark Eye Shadow"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Goat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

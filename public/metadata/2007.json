@@ -1,1 +1,35 @@
-{"name":"Larva Cats #2007","description":"Never bet against a meme","image":"https://www.larvacats.com/metadata/2007.png","dna":"56b325d4fca07f0711eb1561074eb3bfb85169ed","edition":2007,"date":1642413563625,"attributes":[{"trait_type":"Background","value":"Red"},{"trait_type":"Type","value":"Alien"},{"trait_type":"Mouth","value":"Hot"},{"trait_type":"Headwear","value":"Headband"},{"trait_type":"Eyewear","value":"Eye"},{"trait_type":"Accessory","value":"VR"}],"compiler":"HashLips Art Engine"}
+{
+  "name": "Larva Cats #2007",
+  "description": "Never bet against a meme",
+  "image": "https://www.larvacats.com/metadata/2007.png",
+  "dna": "5872640617e44cce06f5c96e719f65f93502f99c",
+  "edition": 2007,
+  "date": 1642423709288,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Unimpressed"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Orange Side"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Goat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
