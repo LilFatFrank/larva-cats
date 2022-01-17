@@ -1,1 +1,35 @@
-{"name":"Larva Cats #386","description":"Never bet against a meme","image":"https://www.larvacats.com/metadata/386.png","dna":"27e8ed9962eeafa9011572b0eb2eaec6f46adb45","edition":386,"date":1642175605099,"attributes":[{"trait_type":"Background","value":"Blue"},{"trait_type":"Type","value":"Ape"},{"trait_type":"Mouth","value":"Frame"},{"trait_type":"Headwear","value":"Fedora"},{"trait_type":"Eyewear","value":"Clown Eyes Green"},{"trait_type":"Accessory","value":"Earring"}],"compiler":"HashLips Art Engine"}
+{
+  "name": "Larva Cats #386",
+  "description": "Never bet against a meme",
+  "image": "https://www.larvcats.com/metadata/386.png",
+  "dna": "7b2aaba98c62811df536fdeb9d60df47275fe7af",
+  "edition": 386,
+  "date": 1642413339244,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Hot"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Tiara"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Horned"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Vape"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

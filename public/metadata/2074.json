@@ -1,1 +1,35 @@
-{"name":"Larva Cats #2074","description":"Never bet against a meme","image":"https://www.larvacats.com/metadata/2074.png","dna":"db45ff18684cc6f7c527b65e47e96574b0fa69da","edition":2074,"date":1642175844627,"attributes":[{"trait_type":"Background","value":"Red"},{"trait_type":"Type","value":"Alien"},{"trait_type":"Mouth","value":"Frame"},{"trait_type":"Headwear","value":"Cowboy"},{"trait_type":"Eyewear","value":"Classic"},{"trait_type":"Accessory","value":"Vape"}],"compiler":"HashLips Art Engine"}
+{
+  "name": "Larva Cats #2074",
+  "description": "Never bet against a meme",
+  "image": "https://www.larvcats.com/metadata/2074.png",
+  "dna": "d03171607208e2a4734a412e5522c8b18d360520",
+  "edition": 2074,
+  "date": 1642413572837,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Clown"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Clown"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Horned"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "VR"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

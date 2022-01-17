@@ -1,1 +1,35 @@
-{"name":"Larva Cats #1541","description":"Never bet against a meme","image":"https://www.larvacats.com/metadata/1541.png","dna":"c2c8bdaf6e5aa9493e0c0ea95c9f5cc1095de120","edition":1541,"date":1642175767180,"attributes":[{"trait_type":"Background","value":"Pink"},{"trait_type":"Type","value":"Normal"},{"trait_type":"Mouth","value":"Frame"},{"trait_type":"Headwear","value":"Frame"},{"trait_type":"Eyewear","value":"Purple"},{"trait_type":"Accessory","value":"Goat"}],"compiler":"HashLips Art Engine"}
+{
+  "name": "Larva Cats #1541",
+  "description": "Never bet against a meme",
+  "image": "https://www.larvcats.com/metadata/1541.png",
+  "dna": "841ec719dbf2882f7cf27f61ea3275d0c1acc172",
+  "edition": 1541,
+  "date": 1642413498832,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Normal2"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Wild"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Clown Eyes Green"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Earring"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
