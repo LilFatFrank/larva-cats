@@ -88,7 +88,7 @@ const App = () => {
   }, [blockchain.account]);
 
   return !(isMobile || isTablet) ? (
-    <>
+    <div className="app">
       <img src="LandingPage.png" alt="landing-page" className="background" />
       <div className="social">
         <a
@@ -96,21 +96,21 @@ const App = () => {
           target={"_blank"}
           rel="noreferrer noopener"
         >
-          <Sprite id="opensea" width={40} height={40} />
+          <img src="opensea.png" alt="opensea" width={32} height={30} />
         </a>
         <a
           href="https://twitter.com/larvacatsnft"
           target={"_blank"}
           rel="noreferrer noopener"
         >
-          <Sprite id="twitter" width={40} height={40} />
+          <img src="twitter.png" alt="opensea" width={32} height={30} />
         </a>
         <a
           href="https://discord.gg/FhHehYS9GH"
           target={"_blank"}
           rel="noreferrer noopener"
         >
-          <Sprite id="discord" width={40} height={40} />
+          <img src="discord.png" alt="opensea" width={32} height={30} />
         </a>
       </div>
       <div className="minting">
@@ -220,7 +220,7 @@ const App = () => {
           </>
         )}
       </div>
-    </>
+    </div>
   ) : (
     <div className="mobile">
       <img src="cat.png" alt="cat" />
